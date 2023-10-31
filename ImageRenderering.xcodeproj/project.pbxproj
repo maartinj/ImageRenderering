@@ -16,6 +16,7 @@
 		BBE263BE28AAC65C0009350F /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBE263BD28AAC65B0009350F /* ImagePicker.swift */; };
 		BBE263C228AB0BF00009350F /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBE263C128AB0BF00009350F /* Launch Screen.storyboard */; };
 		BBF0739C28AB1275000901F1 /* RenderedImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF0739B28AB1275000901F1 /* RenderedImageView.swift */; };
+		E46964552AF197BB00027EF4 /* SizePreferenceKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = E46964542AF197BB00027EF4 /* SizePreferenceKey.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		BBE263BD28AAC65B0009350F /* ImagePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		BBE263C128AB0BF00009350F /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		BBF0739B28AB1275000901F1 /* RenderedImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RenderedImageView.swift; sourceTree = "<group>"; };
+		E46964542AF197BB00027EF4 /* SizePreferenceKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SizePreferenceKey.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				BBE263B728AAA33F0009350F /* StartTab.swift */,
 				BBE263AB28AAA31C0009350F /* BusinessCard.swift */,
 				BBE263B928AAA3D60009350F /* ChartView.swift */,
+				E46964542AF197BB00027EF4 /* SizePreferenceKey.swift */,
 				BBF0739B28AB1275000901F1 /* RenderedImageView.swift */,
 				BB39AC7B28AB18BF00714C54 /* Supporting Files */,
 				BBE263AD28AAA31E0009350F /* Assets.xcassets */,
@@ -161,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E46964552AF197BB00027EF4 /* SizePreferenceKey.swift in Sources */,
 				BBE263B828AAA33F0009350F /* StartTab.swift in Sources */,
 				BBE263AC28AAA31C0009350F /* BusinessCard.swift in Sources */,
 				BBF0739C28AB1275000901F1 /* RenderedImageView.swift in Sources */,

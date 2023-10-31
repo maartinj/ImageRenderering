@@ -7,6 +7,8 @@
 // Subscribe on YouTube: https://youTube.com/StewartLynch
 //
 
+// Link: https://www.youtube.com/watch?v=wBVhWI6piU4&ab_channel=StewartLynch
+
 import SwiftUI
 
 struct StartTab: View {
